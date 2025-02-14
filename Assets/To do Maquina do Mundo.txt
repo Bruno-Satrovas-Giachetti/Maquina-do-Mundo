@@ -1,0 +1,24 @@
+To do Maquina do Mundo:
+
+- Alterar salas para incluir menos carvão de acordo com o quanto for usado
+- Interação Escrivaninha (leitura do livro com poema do dia)
+- Display Monitor com stats
+- Efeitos Sonoros (Fogo, vento, interruptor, máquina, Janela)
+
+- Timer desliga interações de energia da fase ao chegar no 0
+- Incluir descrição das interações abaixo do ícone de apertar "E"
+
+*Planos*
+ - Planejamento Gameplay
+ - Planejamento das metas e como o gameplay afeta
+ - Trechos do poema
+
+*Assets*
+ - Músicas (para tocar se tiver a vitrola)
+ - Som de vento
+ - Som de passos no carpete
+ - Som de fogo
+ - Som ao queimar combustível fóssil na fornalha
+ - Som de ligar o botão eólico
+ - Som de Janela abrindo
+ - Som estático da máquina (Uon)
